@@ -1,5 +1,5 @@
-My Raspberry Pi Stuff
-################
+My Raspberry Pi stuff
+------------------
 
 This is a project for storing all my Raspberry Pi stuff. This is a mixture of code I have made and some code I've downloaded.
 
